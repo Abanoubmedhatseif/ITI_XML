@@ -1,0 +1,25 @@
+{
+    "location": "25, cairo, egypt",
+    "description": "Ex dolore ut ipsum ad velit elit culpa proident ipsum sunt do aliqua proident ut.",
+    "librarian": "Abanoub",
+    "books": [
+      {
+        "isbn": "32684",
+        "category": "Drama",
+        "title": "why ?",
+        "author": "Dr.boba",
+        "parts": [
+          {
+            "title": "part 1",
+            "chapters": [
+              {
+                "title": "chapter 1",
+                "summary": " beginning of life",
+                "section": ["one", "two"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
